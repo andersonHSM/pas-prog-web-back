@@ -19,10 +19,10 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "pas_prod",
-    "host": "localhost",
+    "username": "wtboqjfqimpvna",
+    "password": "b50791706308194ac5195713084c50a446506a9092c572014701bf56ef2840f7",
+    "database": "d5sdrf6a0n2st3",
+    "host": "ec2-50-17-90-177.compute-1.amazonaws.com",
     "dialect": "postgres",
     "operatorsAliases": false,
     "use_env_variable": "DATABASE_URL"
