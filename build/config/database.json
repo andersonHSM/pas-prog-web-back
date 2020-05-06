@@ -1,0 +1,30 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "123",
+        "database": "pasprogweb",
+        "host": "db",
+        "dialect": "postgres",
+        "define": {
+            "timestamps": true,
+            "underscored": true
+        }
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "database_test",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "wtboqjfqimpvna",
+        "password": "b50791706308194ac5195713084c50a446506a9092c572014701bf56ef2840f7",
+        "database": "d5sdrf6a0n2st3",
+        "host": "ec2-50-17-90-177.compute-1.amazonaws.com",
+        "dialect": "postgres",
+        "operatorsAliases": false,
+        "use_env_variable": "DATABASE_URL"
+    }
+}
